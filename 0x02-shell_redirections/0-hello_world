@@ -1,2 +1,3 @@
 #!/bin/bash
-"Hello, World"
+echo 'Hello, World'
+t@1da1f74712b0:~/alx-system_engineering-devops/0x02-shell_redirections# git add .       i
